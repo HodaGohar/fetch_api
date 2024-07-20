@@ -13,3 +13,12 @@ body{
 .keyword{
     color: red;
 }
+.btn{
+    margin: 5px;
+}
+.comment_name{
+    color: red;
+}
+.text{
+    color: rgb(121, 94, 94);
+}
